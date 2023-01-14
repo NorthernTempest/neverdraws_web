@@ -1,0 +1,14 @@
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+*.code-workspace
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Reference material
+reference/*

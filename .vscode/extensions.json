@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+        "ms-azuretools.vscode-docker",
+        "googlecloudtools.cloudcode",
+        "dbaeumer.vscode-eslint",
+        "shd101wyy.markdown-preview-enhanced",
+        "esbenp.prettier-vscode",
+        "snyk-security.snyk-vulnerability-scanner",
+        "aaron-bond.better-comments"
+    ]
+}
