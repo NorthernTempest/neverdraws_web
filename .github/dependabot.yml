@@ -1,0 +1,12 @@
+# https://docs.github.com/github/administering-a-repository/configuration-options-for-dependency-updates
+
+version: 2
+updates:
+
+  # www.neverdraws.ca
+  - package-ecosystem: "npm"
+    directory: "/sites/neverdraws_ca/www/"
+    schedule:
+      interval: "weekly"
+    assignees:
+      - "NorthernTempest"
